@@ -1,6 +1,5 @@
 build/
 .cache/
-.codex
 compile_commands.json
 *.o
 *.a
