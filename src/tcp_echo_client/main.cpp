@@ -8,7 +8,7 @@
 
 int main(int argc, char* argv[]) {
     if (argc != 4) {
-        std::cerr << "Usage: << argv[0] << " "<host> <port> <message>" << std::endl;
+        std::cerr << "Usage: << argv[0]" << "<host> <port> <message>" << std::endl;
         return 1; 
     }
 
